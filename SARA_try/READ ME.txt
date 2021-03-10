@@ -1,0 +1,14 @@
+----------------------------------------------------------
+
+MAIN DEV: -
+
+THANKS TO:
+-
+
+----------------------------------------------------------
+This programm necessitate a 3.7 version of Python to work.
+
+THIS PROGRAM MAY CONTAIN BUGS. THE DEVELOPPERS CANNOT ENSURE, especially in case of user modifications,
+THAT NO DATA LOSS, OR OTHER FORM OF DAMAGE, WILL HAPPEND.
+
+SARA is freely distributed and does not constitute an actual product that is to be sold. As such, no 'sellers' is officially recognised.

@@ -1,0 +1,21 @@
+En cas d'erreur de /main/, il est tout à fait possible de le remplacer par /bcp/ (backup):
+
+supprimmez /main/, copiez /bcp/, et renommez la copie en tant que 'main'
+--------------------------------------------------------------------------------------
+ATTENTION: 
+
+* /bcp/  a une sauvegarde de retard sur /main/, permettant ainsi une récupération efficace.
+* Si SARA détecte un problème, elle effectue l'échange sans le signaler
+* /bcp/ peut être corrompu tout autant que /main/, il est donc fortement conseillé de faire la copie à la main
+
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+In case of error from /main/, it is entirely possible to replace it by /bcp/ (backup):
+
+delete /main/, copy /bcp/ and rename the copy as 'main'
+--------------------------------------------------------------------------------------
+WARNING:
+
+* /bcp/ is one save late of /main/, thus allowing an effective recovery
+* should SARA detect the issue, she will do the exchange without pointing it out
+* /bcp/ can be corrupted too. It is therefore strongly advised to do manual copies of it.
