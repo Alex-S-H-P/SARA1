@@ -1,3 +1,7 @@
+![icon](sara_1_icon.ico)
+# SARA 1 
+
+## Goal and context
 This is a project that was made from November 26 2020 and was finished during May/July 2021.
 
 It is functionnal, but is not reallyoptimized. It's a proof of concept.
@@ -23,6 +27,8 @@ dynamically from the request, such as the calendar modifications routine.
 
 The whole application comes with a GUI that could theoretically be taken out, and replaced quite easily with a pipe file reader that would then be 
 connected to any desired input method (why not voice analysis).
+
+## Reflexion on finished product
 
 So, in conclusion.
 
